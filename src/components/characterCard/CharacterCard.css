@@ -1,0 +1,12 @@
+.character-status {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    text-align: left;
+}
+
+.character-card {
+    border: 1px solid #fff;
+    padding: 1em;
+    margin: 1em;
+}
